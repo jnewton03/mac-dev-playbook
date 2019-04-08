@@ -1,6 +1,0 @@
----
-- name: geerlingguy.dotfiles
-- name: geerlingguy.homebrew
-- name: geerlingguy.mas
-# Install dotfiles
-  name: jnewton.dotfiles  
