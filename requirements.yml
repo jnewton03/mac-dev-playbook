@@ -3,5 +3,4 @@
 - name: geerlingguy.homebrew
 - name: geerlingguy.mas
 # Install dotfiles
-# - src:  https://github.com/jnewton03/dotfiles
-#   name: jnewton dotfiles  
+  name: jnewton.dotfiles  
